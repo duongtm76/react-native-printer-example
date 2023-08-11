@@ -1,0 +1,35 @@
+com.awsomeapp202308.app-jetified-activity-1.6.0-0 C:\Users\Windows\.gradle\caches\transforms-3\018af45bbc75a13e8f03d0f002c95dce\transformed\jetified-activity-1.6.0\res
+com.awsomeapp202308.app-jetified-glide-4.12.0-1 C:\Users\Windows\.gradle\caches\transforms-3\0eaf52f4c642de190d4dd4a67699b7b2\transformed\jetified-glide-4.12.0\res
+com.awsomeapp202308.app-fragment-1.3.6-2 C:\Users\Windows\.gradle\caches\transforms-3\177c698be397eb145127cfb5353a1679\transformed\fragment-1.3.6\res
+com.awsomeapp202308.app-jetified-emoji2-1.2.0-3 C:\Users\Windows\.gradle\caches\transforms-3\259206a491dfa4b8b6052b2b1c41d979\transformed\jetified-emoji2-1.2.0\res
+com.awsomeapp202308.app-jetified-core-ktx-1.9.0-4 C:\Users\Windows\.gradle\caches\transforms-3\53c0d890c6bc81ca8ed0b3e1e4669247\transformed\jetified-core-ktx-1.9.0\res
+com.awsomeapp202308.app-lifecycle-livedata-core-2.5.1-5 C:\Users\Windows\.gradle\caches\transforms-3\571c721c2fa928828c8b330973588e70\transformed\lifecycle-livedata-core-2.5.1\res
+com.awsomeapp202308.app-jetified-ESCPOS-ThermalPrinter-Android-3.3.0-6 C:\Users\Windows\.gradle\caches\transforms-3\592b93909c714724cd0c4c569edbc194\transformed\jetified-ESCPOS-ThermalPrinter-Android-3.3.0\res
+com.awsomeapp202308.app-core-1.9.0-7 C:\Users\Windows\.gradle\caches\transforms-3\6071112da32bfbae80caeb5ecfa6fe8d\transformed\core-1.9.0\res
+com.awsomeapp202308.app-jetified-annotation-experimental-1.3.0-8 C:\Users\Windows\.gradle\caches\transforms-3\68bf2b790f924e31d1fd798308e3f9d1\transformed\jetified-annotation-experimental-1.3.0\res
+com.awsomeapp202308.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-9 C:\Users\Windows\.gradle\caches\transforms-3\7fc633a5260480b3ef4cc9db55eac028\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.awsomeapp202308.app-jetified-tracing-1.1.0-10 C:\Users\Windows\.gradle\caches\transforms-3\816103dcaf20cc3449d44e7aef228ddc\transformed\jetified-tracing-1.1.0\res
+com.awsomeapp202308.app-jetified-drawee-2.6.0-11 C:\Users\Windows\.gradle\caches\transforms-3\8ebb0988b078846cf36008451821bdf1\transformed\jetified-drawee-2.6.0\res
+com.awsomeapp202308.app-appcompat-1.6.1-12 C:\Users\Windows\.gradle\caches\transforms-3\9063f6ea8f14a1308661cc5fa127b2c6\transformed\appcompat-1.6.1\res
+com.awsomeapp202308.app-lifecycle-runtime-2.5.1-13 C:\Users\Windows\.gradle\caches\transforms-3\9aac10571d1da2bf9b3f9b1ce16ec0f0\transformed\lifecycle-runtime-2.5.1\res
+com.awsomeapp202308.app-lifecycle-viewmodel-2.5.1-14 C:\Users\Windows\.gradle\caches\transforms-3\ae853c20050221bd5167dcf08fa24e08\transformed\lifecycle-viewmodel-2.5.1\res
+com.awsomeapp202308.app-sqlite-framework-2.2.0-15 C:\Users\Windows\.gradle\caches\transforms-3\aed854fb12aa7a4f325a5318b63d5aa8\transformed\sqlite-framework-2.2.0\res
+com.awsomeapp202308.app-jetified-lifecycle-process-2.4.1-16 C:\Users\Windows\.gradle\caches\transforms-3\b1c537e6049df5a2dcb1a9b20b1a8868\transformed\jetified-lifecycle-process-2.4.1\res
+com.awsomeapp202308.app-jetified-autofill-1.1.0-17 C:\Users\Windows\.gradle\caches\transforms-3\b2c399022120a5a16a836a433ff38c79\transformed\jetified-autofill-1.1.0\res
+com.awsomeapp202308.app-jetified-react-android-0.72.3-debug-18 C:\Users\Windows\.gradle\caches\transforms-3\c89beba49bda3c7ff0db4787685e5ed7\transformed\jetified-react-android-0.72.3-debug\res
+com.awsomeapp202308.app-jetified-startup-runtime-1.1.1-19 C:\Users\Windows\.gradle\caches\transforms-3\ce16fe979dbb8e21943e6d6fc151e0f0\transformed\jetified-startup-runtime-1.1.1\res
+com.awsomeapp202308.app-sqlite-2.2.0-20 C:\Users\Windows\.gradle\caches\transforms-3\dc58477293179deb391b12c4cba55b48\transformed\sqlite-2.2.0\res
+com.awsomeapp202308.app-jetified-savedstate-1.2.0-21 C:\Users\Windows\.gradle\caches\transforms-3\e081ace0c4a1086c044e0d15d89ff25d\transformed\jetified-savedstate-1.2.0\res
+com.awsomeapp202308.app-jetified-flipper-0.182.0-22 C:\Users\Windows\.gradle\caches\transforms-3\e13f88164840fe641a466d05cd8edac7\transformed\jetified-flipper-0.182.0\res
+com.awsomeapp202308.app-jetified-emoji2-views-helper-1.2.0-23 C:\Users\Windows\.gradle\caches\transforms-3\e476447430bdc86d50f956c4c4777a9c\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.awsomeapp202308.app-jetified-appcompat-resources-1.6.1-24 C:\Users\Windows\.gradle\caches\transforms-3\ff35750a1b2538f7aa42746e27d5fb9d\transformed\jetified-appcompat-resources-1.6.1\res
+com.awsomeapp202308.app-pngs-25 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\android\app\build\generated\res\pngs\debug
+com.awsomeapp202308.app-resValues-26 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\android\app\build\generated\res\resValues\debug
+com.awsomeapp202308.app-rs-27 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\android\app\build\generated\res\rs\debug
+com.awsomeapp202308.app-mergeDebugResources-28 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.awsomeapp202308.app-mergeDebugResources-29 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.awsomeapp202308.app-merged_res-30 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\android\app\build\intermediates\merged_res\debug
+com.awsomeapp202308.app-debug-31 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\android\app\src\debug\res
+com.awsomeapp202308.app-main-32 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\android\app\src\main\res
+com.awsomeapp202308.app-packaged_res-33 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\debug
+com.awsomeapp202308.app-packaged_res-34 D:\Workspace\LearnExamples\3.1 ReactNative\AwsomeApp202308\node_modules\react-native-thermal-printer\android\build\intermediates\packaged_res\debug
